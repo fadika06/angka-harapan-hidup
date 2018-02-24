@@ -181,8 +181,7 @@ Vue.component('angka-harapan-hidup-pie-03', AngkaHarapanHidupPie03);
 #### Untuk publish component vue :
 
 ```bash
-$ php artisan vendor:publish --tag=jumlah-penduduk-golongan-darah-assets
-$ php artisan vendor:publish --tag=jumlah-penduduk-golongan-darah-public
+$ php artisan vendor:publish --tag=angka-harapan-hidup-assets
 ```
 
 
