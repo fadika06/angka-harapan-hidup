@@ -5,7 +5,7 @@
 
 - Development snapshot
 ```bash
-$ composer require bantenprov/jumlah-penduduk-golongan-darah:dev-master
+$ composer require bantenprov/angka-harapan-hidup:dev-master
 ```
 - Latest release:
 
@@ -13,7 +13,7 @@ $ composer require bantenprov/jumlah-penduduk-golongan-darah:dev-master
 ### download via github
 
 ~~~bash
-$ git clone https://github.com/bantenprov/jumlah-penduduk-golongan-darah.git
+$ git clone https://github.com/bantenprov/bantenprov/angka-harapan-hidup.git
 ~~~
 
 
