@@ -132,6 +132,7 @@ children: [
           link: '/admin/dashboard/home',
           icon: 'fa fa-angle-right'
         },
+        //== ...
         {
           name: 'Angka Harapan Hidup',
           link: '/admin/dashboard/angka-harapan-hidup',
