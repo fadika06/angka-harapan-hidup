@@ -13,7 +13,7 @@ $ composer require bantenprov/angka-harapan-hidup:dev-master
 ### download via github
 
 ~~~bash
-$ git clone https://github.com/bantenprov/bantenprov/angka-harapan-hidup.git
+$ git clone https://github.com/bantenprov/angka-harapan-hidup.git
 ~~~
 
 
